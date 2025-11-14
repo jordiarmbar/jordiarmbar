@@ -5,7 +5,8 @@
 Este es el lugar donde guardo mis ideas, proyectos y experimentos. Si algo te inspira o te sirve, ¡me alegra un montón! Gracias por visitar mi perfil 😊
 
 
-## Sobre mí 
+![Star GIF](./assets/star.gif) ## Sobre mí ![Star GIF](./assets/star.gif)
+
 
 👨‍💻 Soy estudiante de desarrollo de aplicaciones software y un apasionado del desarrollo de videojuegos 🎮.  
 Me encanta:
