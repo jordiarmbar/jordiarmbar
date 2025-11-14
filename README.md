@@ -5,13 +5,13 @@ Si algo te inspira o te sirve, ¡me alegra un montón! Gracias por visitar mi pe
 
 ---
 
-<!--
+
 <h2>
   <img src="./assets/star.png" alt="Star PNG" width="32"/> Sobre mí <img src="./assets/star.png" alt="Star PNG" width="32"/>
 </h2>
--->
 
-## ✨ Sobre mí ✨
+
+<!-- ## ✨ Sobre mí ✨ -->
 
 
 
@@ -25,7 +25,7 @@ Me encanta:
 
 Siempre busco oportunidades para mejorar mis habilidades, experimentar con herramientas modernas y crecer en el ecosistema del software y los videojuegos 💡.
 
-<!-- ![Simon GIF](./assets/simon_the_sorcerer_pc_002.gif) -->
+![Simon GIF](./assets/simon_the_sorcerer_pc_002.gif) 
 
 ---
 
