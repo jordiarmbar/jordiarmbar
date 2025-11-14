@@ -4,7 +4,7 @@
 
 Este es el lugar donde guardo mis ideas, proyectos y experimentos. Si algo te inspira o te sirve, ¡me alegra un montón! Gracias por visitar mi perfil 😊
 
-## <img src="./assets/star.gif" alt="Star GIF" width="100"/> Sobre mí <img src="./assets/star.gif" alt="Star GIF" width="100"/>
+## <img src="./assets/star.gif" alt="Star GIF" width="32"/> Sobre mí <img src="./assets/star.gif" alt="Star GIF" width="32"/>
 
 
 
