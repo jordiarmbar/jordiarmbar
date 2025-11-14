@@ -6,7 +6,7 @@ Si algo te inspira o te sirve, ¡me alegra un montón! Gracias por visitar mi pe
 ---
 
 <h2>
-  <img src="./assets/star.gif" alt="Star GIF" width="64"/> Sobre mí <img src="./assets/star.gif" alt="Star GIF" width="64"/>
+  <img src="./assets/star.png" alt="Star PNG" width="32"/> Sobre mí <img src="./assets/star.png" alt="Star PNG" width="32"/>
 </h2>
 
 
