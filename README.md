@@ -5,7 +5,12 @@ Si algo te inspira o te sirve, ¡me alegra un montón! Gracias por visitar mi pe
 
 ---
 
-## <img src="./assets/star.gif" alt="Star GIF" width="32"/> Sobre mí <img src="./assets/star.gif" alt="Star GIF" width="32"/>
+<img src="./assets/star.gif" alt="Star GIF" width="32"/>
+
+## Sobre mí
+
+<img src="./assets/star.gif" alt="Star GIF" width="32"/>
+
 
 👨‍💻 Soy estudiante de desarrollo de aplicaciones software y un apasionado del desarrollo de videojuegos 🎮.  
 
