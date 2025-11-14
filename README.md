@@ -21,6 +21,8 @@ Me encanta:
 
 Siempre busco oportunidades para mejorar mis habilidades, experimentar con herramientas modernas y crecer en el ecosistema del software y los videojuegos 💡.
 
+![Simon GIF](./assets/simon_the_sorcerer_pc_002.gif)
+
 ---
 
 ## Conocimientos adquiridos
